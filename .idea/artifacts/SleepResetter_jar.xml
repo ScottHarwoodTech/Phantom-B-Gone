@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SleepResetter:jar">
-    <output-path>E:/Desktop/SpigotServer/plugins</output-path>
-    <root id="archive" name="SleepResetter.jar">
-      <element id="module-output" name="SleepResetter" />
-      <element id="extracted-dir" path="E:/Desktop/SpigotServer/spigot-1.13.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>

@@ -1,5 +1,4 @@
-name: SleepResetter
-version: 0.1
+name: Phantom-B-Gone
+version: 0.3
 author: scott harwood
 main: scott.harwood.sleep.resetter.SleepResetter
-api-version: 1.13
