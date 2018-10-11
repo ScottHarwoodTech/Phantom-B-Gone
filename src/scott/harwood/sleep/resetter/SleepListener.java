@@ -12,7 +12,7 @@ public class SleepListener implements Listener {
     {
         Player p = event.getPlayer();
         p.setStatistic(Statistic.TIME_SINCE_DEATH,0);
-        String message = ChatColor.translateAlternateColorCodes("&",SleepResetter.getPlugin(SleepResetter.class).getConfig().getString("message")).replace("%player%",p.getDisplayName());
+        String message = ChatColor.translateAlternateColorCodes('&',SleepResetter.getPlugin(SleepResetter.class).getConfig().getString("message")).replace("%player%",p.getDisplayName());
         p.sendMessage(message);
     }
 
