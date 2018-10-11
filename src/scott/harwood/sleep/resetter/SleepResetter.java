@@ -10,6 +10,9 @@ public class SleepResetter extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        // Copy default config
+        config.options().copyDefaults(true);
+        saveConfig();
         getServer().getPluginManager().registerEvents(new SleepListener(),this);
     }
 }
