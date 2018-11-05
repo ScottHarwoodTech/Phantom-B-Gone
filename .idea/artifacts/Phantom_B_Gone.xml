@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Phantom-B-Gone">
+    <output-path>$PROJECT_DIR$/out/artifacts/Phantom_B_Gone</output-path>
+    <root id="archive" name="Phantom-B-Gone.jar">
+      <element id="module-output" name="SleepResetter" />
+    </root>
+  </artifact>
+</component>

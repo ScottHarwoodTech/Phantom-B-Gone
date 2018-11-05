@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="SleepResetter:jar2">
-    <output-path>$PROJECT_DIR$/Builds</output-path>
+  <artifact type="jar" name="SleepResetter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SleepResetter_jar</output-path>
     <root id="archive" name="SleepResetter.jar">
       <element id="module-output" name="SleepResetter" />
       <element id="extracted-dir" path="E:/Spigot/Spigot-API/target/spigot-api-1.13.1-R0.1-SNAPSHOT.jar" path-in-jar="/" />

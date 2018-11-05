@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="SleepResetter:jar2" />
+      <artifact name="Phantom-B-Gone" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7487963b-9b61-4ded-b226-9ef17e94aa6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SleepResetter_jar2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SleepResetter_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Phantom_B_Gone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/DelayNotificationRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/WarningInitial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SleepResetter_jar2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SleepResetter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SleepResetter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SleepResetter/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SleepResetter/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/SleepResetter.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SleepResetter/scott/harwood/sleep/resetter/SleepListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SleepResetter/scott/harwood/sleep/resetter/SleepListener.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SleepResetter/scott/harwood/sleep/resetter/SleepResetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SleepResetter/scott/harwood/sleep/resetter/SleepResetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepResetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepResetter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,69 +66,113 @@
     <session id="1317096755">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="yml" value="1" />
+          <entry key="java" value="4" />
+          <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="YAML" value="1" />
+          <entry key="JAVA" value="4" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="yml" value="4" />
+          <entry key="java" value="2651" />
+          <entry key="yml" value="325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="YAML" value="4" />
+          <entry key="JAVA" value="2651" />
+          <entry key="YAML" value="325" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepResetter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/plugin.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.6977612">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepResetter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="476">
+                  <caret line="31" selection-start-line="31" selection-end-line="31" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepListener.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="27" selection-start-line="27" selection-end-line="27" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/DelayNotificationRunnable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#257#258#0" expanded="true" />
+                    <element signature="e#283#284#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/WarningInitial.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="612">
+                  <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/config.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,10 +187,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepListener.java" />
         <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/test.java" />
-        <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepResetter.java" />
         <option value="$PROJECT_DIR$/src/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/config.yml" />
+        <option value="$PROJECT_DIR$/src/config.yml" />
+        <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/DelayNotificationRunnable.java" />
+        <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepListener.java" />
+        <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepResetter.java" />
+        <option value="$PROJECT_DIR$/src/scott/harwood/sleep/resetter/WarningInitial.java" />
       </list>
     </option>
   </component>
@@ -154,10 +205,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2238" />
-    <option name="y" value="-11" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,17 +216,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SleepResetter" type="b2602c69:ProjectViewProjectNode" />
               <item name="SleepResetter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SleepResetter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SleepResetter" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SleepResetter" type="b2602c69:ProjectViewProjectNode" />
@@ -196,21 +245,24 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536189297084" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Builds" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537734106418" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\SpigotLearn\SleepResetter\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -276,18 +328,34 @@
       <workItem from="1535980989308" duration="241000" />
       <workItem from="1535990461494" duration="270000" />
       <workItem from="1536147837335" duration="1521000" />
-      <workItem from="1537191506336" duration="3982000" />
+      <workItem from="1537191506336" duration="4586000" />
+      <workItem from="1537219704652" duration="427000" />
+      <workItem from="1537220530026" duration="12000" />
+      <workItem from="1537220545847" duration="428000" />
+      <workItem from="1537242427259" duration="1219000" />
+      <workItem from="1537253788992" duration="78000" />
+      <workItem from="1537253893820" duration="13000" />
+      <workItem from="1537265438079" duration="2000" />
+      <workItem from="1537483612516" duration="1319000" />
+      <workItem from="1537532418265" duration="730000" />
+      <workItem from="1537632442963" duration="599000" />
+      <workItem from="1537637969082" duration="599000" />
+      <workItem from="1537643099973" duration="2000" />
+      <workItem from="1537704597505" duration="508000" />
+      <workItem from="1537705569069" duration="6362000" />
+      <workItem from="1537734391117" duration="711000" />
+      <workItem from="1538332143824" duration="667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12525000" />
+    <option name="totallyTimeSpent" value="26805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3538682" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33102345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,10 +393,17 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepResetter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="476">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -337,18 +412,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/SleepListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="357">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+    <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/DelayNotificationRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        <state relative-caret-position="102">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scott/harwood/sleep/resetter/WarningInitial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -358,7 +455,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>SleepResetter:jar2</last-edited>
+          <last-edited>Phantom-B-Gone</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
