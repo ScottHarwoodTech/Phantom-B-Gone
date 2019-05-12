@@ -1,8 +1,0 @@
-1: Its time to sleep because the phantoms will come out soon
-2: Sleepy Times
-3: The Phantoms are coming RUN!
-4:
-  - Run the phantoms are here
-  - Panic!
-ResetTime: 1
-BedDelay: 20
